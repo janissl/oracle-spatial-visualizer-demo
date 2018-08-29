@@ -1,0 +1,6 @@
+Buildings
+Roads
+Trees
+Fences
+Gates
+Lawns
