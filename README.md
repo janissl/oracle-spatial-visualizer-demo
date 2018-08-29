@@ -5,7 +5,7 @@ It extracts spatial object data from user-defined tables in an Oracle database (
 Tables from which to extract data are defined by a user in a plaintext file _tables.txt_ (one table name per line). This file must exist in the current work directory.
 Before running this application, the tables must be populated with user-defined spatial object data.
 
-The application has been developed in course of my master studies at Riga Techical University (Specialized Database Systems (DSP 403), Prof. Dr. J. Eiduks, website (Latvian-only): https://datubaze.wordpress.com/macibu-kursi/db3-specializetas-dbs-jaunais/).
+The application has been developed in course of my master studies at Riga Technical University (Specialized Database Systems (DSP 403), Prof. Dr. J. Eiduks, website (Latvian-only): https://datubaze.wordpress.com/macibu-kursi/db3-specializetas-dbs-jaunais/).
 
 Prerequisites:
 * installed Oracle SQL Developer
